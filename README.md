@@ -20,7 +20,7 @@ To follow along with the activities, you can:
 2. Open the notes in a Markdown viewer or Jupyter Notebook.
 3.  Explore the activities and practice hands-on.
 
-## Contributing
+## 📢 Contributing
 
 If you have suggestions or improvements, feel free to open an issue or submit a pull request!
 
